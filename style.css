@@ -14,7 +14,7 @@ tr:nth-child(even) {
 }
 
 .AA {
-    background-color: green;
+    background-color: #358a8f;
 }
 .AB {
     background-color: #358a8f;
@@ -55,7 +55,7 @@ table {
 
 }
 @media (hover: hover) {
-    a:hover {
+    td:hover {
         background: yellow; 
     }
 }
